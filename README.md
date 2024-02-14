@@ -1,2 +1,2 @@
-# Block-an-Inline-in-HTML
+# Block-and-Inline-in-HTML
 TYPES OF BLOCK AND INLINE
